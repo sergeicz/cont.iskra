@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/Krigs-hund/zu_im
 
 go 1.24.1
 
