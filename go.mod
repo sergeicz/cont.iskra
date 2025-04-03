@@ -1,5 +1,5 @@
-module github.com/Krigs-hund/zu_im
+module github.com/Krigs-hund/oli69
 
-go 1.24.1
+go 1.23.5
 
-require github.com/chrede88/L1nkr v1.9.2 // indirect
+require github.com/jpanther/lynx v1.4.0 // indirect
