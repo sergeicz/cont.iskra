@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
   name = "Ушёл"
   headline = "Из IT на Завод"
   image = "img/author.jpg"
-  extended = true
+  
 
   links = [
      { booking = { href = "https://t.me/+kc0clSoKejs5MGIy", text = "Узнать почему" } },
