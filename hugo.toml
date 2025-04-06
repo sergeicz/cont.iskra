@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
   yandexMetrikaId = "100811378" 
 
   links = [
-     { booking = { href = "https://t.me/+kc0clSoKejs5MGIy", text = "Узнать почему" } },
+    { booking = { href = "https://t.me/+kc0clSoKejs5MGIy", text = "Узнать почему" } },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
