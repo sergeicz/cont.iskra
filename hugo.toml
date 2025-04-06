@@ -12,8 +12,6 @@ disableKinds = ["taxonomy", "term"]
   name = "Ушёл"
   headline = "Из IT на Завод"
   image = "img/author.jpg"
-
-[params.head]    
   extended = true
 
   links = [
