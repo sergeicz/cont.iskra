@@ -1,4 +1,4 @@
-module github.com/Krigs-hund/oli69
+module github.com/sergeicz/cont.iskra
 
 go 1.23.5
 

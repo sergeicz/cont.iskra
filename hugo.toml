@@ -13,6 +13,8 @@ disableKinds = ["taxonomy", "term"]
   headline = "Из IT на Завод"
   image = "img/author.jpg"
   
+[params]
+  yandexMetrikaId = "100811378" 
 
   links = [
      { booking = { href = "https://t.me/+kc0clSoKejs5MGIy", text = "Узнать почему" } },
