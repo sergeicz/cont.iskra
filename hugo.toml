@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
   
 
   links = [
-    { booking = { href = "https://t.me/+vuo_2dGsn5RlOThi", text = "Узнать почему" } },
+    { booking = { href = "https://click.tgtrack.ru/e81933634553f", text = "Узнать почему" } },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
